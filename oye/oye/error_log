@@ -1,0 +1,647 @@
+[19-Aug-2017 20:47:48 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/test.php on line 8
+[19-Aug-2017 20:47:48 America/New_York] PHP Notice:  Undefined index: email in /home/hemantku/public_html/oye/oye/test.php on line 9
+[19-Aug-2017 20:47:48 America/New_York] PHP Notice:  Undefined variable: mysql_tb in /home/hemantku/public_html/oye/oye/test.php on line 20
+[19-Aug-2017 20:49:52 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/test.php on line 8
+[19-Aug-2017 20:49:52 America/New_York] PHP Notice:  Undefined index: email in /home/hemantku/public_html/oye/oye/test.php on line 9
+[19-Aug-2017 20:52:14 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/test.php on line 8
+[19-Aug-2017 20:52:40 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/test.php on line 8
+[19-Aug-2017 20:52:42 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/test.php on line 8
+[19-Aug-2017 20:55:02 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/test.php on line 8
+[19-Aug-2017 20:55:07 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/test.php on line 8
+[19-Aug-2017 20:55:08 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/test.php on line 8
+[19-Aug-2017 20:55:18 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/test.php on line 8
+[19-Aug-2017 20:55:24 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/test.php on line 8
+[19-Aug-2017 20:57:34 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/test.php on line 8
+[19-Aug-2017 20:57:38 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/test.php on line 8
+[19-Aug-2017 21:02:17 America/New_York] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'hemantku_user'@'108.160.156.44' to database 'hemantku_testba' in /home/hemantku/public_html/oye/oye/dbConfig.php on line 7
+[19-Aug-2017 21:02:46 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/test.php on line 8
+[19-Aug-2017 21:05:18 America/New_York] PHP Notice:  Trying to get property of non-object in /home/hemantku/public_html/oye/oye/test.php on line 12
+[19-Aug-2017 21:57:03 America/New_York] PHP Parse error:  syntax error, unexpected '*' in /home/hemantku/public_html/oye/oye/send_otp.php on line 74
+[19-Aug-2017 21:57:48 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 14
+[19-Aug-2017 21:57:48 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 14
+[19-Aug-2017 21:57:48 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 15
+[19-Aug-2017 21:57:48 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 15
+[19-Aug-2017 21:57:48 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 16
+[19-Aug-2017 21:57:48 America/New_York] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 16
+[19-Aug-2017 21:57:48 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 17
+[19-Aug-2017 21:57:48 America/New_York] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 17
+[19-Aug-2017 21:57:48 America/New_York] PHP Notice:  Undefined index: otp_num in /home/hemantku/public_html/oye/oye/send_otp.php on line 40
+[19-Aug-2017 21:58:05 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/send_otp.php on line 8
+[19-Aug-2017 21:58:05 America/New_York] PHP Notice:  Undefined index: email in /home/hemantku/public_html/oye/oye/send_otp.php on line 9
+[19-Aug-2017 21:58:05 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 14
+[19-Aug-2017 21:58:05 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 14
+[19-Aug-2017 21:58:05 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 15
+[19-Aug-2017 21:58:05 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 15
+[19-Aug-2017 21:58:05 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 16
+[19-Aug-2017 21:58:05 America/New_York] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 16
+[19-Aug-2017 21:58:05 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 17
+[19-Aug-2017 21:58:05 America/New_York] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 17
+[19-Aug-2017 21:58:05 America/New_York] PHP Notice:  Undefined index: personal_name in /home/hemantku/public_html/oye/oye/send_otp.php on line 46
+[19-Aug-2017 21:58:05 America/New_York] PHP Notice:  Undefined index: loc_owner_name in /home/hemantku/public_html/oye/oye/send_otp.php on line 47
+[19-Aug-2017 21:58:05 America/New_York] PHP Notice:  Undefined index: address in /home/hemantku/public_html/oye/oye/send_otp.php on line 48
+[19-Aug-2017 21:58:05 America/New_York] PHP Notice:  Undefined index: country in /home/hemantku/public_html/oye/oye/send_otp.php on line 49
+[19-Aug-2017 21:58:05 America/New_York] PHP Notice:  Undefined index: state in /home/hemantku/public_html/oye/oye/send_otp.php on line 50
+[19-Aug-2017 21:58:05 America/New_York] PHP Notice:  Undefined index: city in /home/hemantku/public_html/oye/oye/send_otp.php on line 51
+[19-Aug-2017 21:58:05 America/New_York] PHP Notice:  Undefined index: pincode in /home/hemantku/public_html/oye/oye/send_otp.php on line 52
+[19-Aug-2017 21:58:05 America/New_York] PHP Notice:  Undefined index: email in /home/hemantku/public_html/oye/oye/send_otp.php on line 53
+[19-Aug-2017 21:58:05 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/send_otp.php on line 54
+[19-Aug-2017 21:58:05 America/New_York] PHP Notice:  Undefined index: password in /home/hemantku/public_html/oye/oye/send_otp.php on line 55
+[19-Aug-2017 21:58:05 America/New_York] PHP Notice:  Undefined index: ownership_type in /home/hemantku/public_html/oye/oye/send_otp.php on line 56
+[19-Aug-2017 21:58:05 America/New_York] PHP Notice:  Trying to get property of non-object in /home/hemantku/public_html/oye/oye/send_otp.php on line 60
+[19-Aug-2017 21:59:46 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 14
+[19-Aug-2017 21:59:46 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 14
+[19-Aug-2017 21:59:46 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 15
+[19-Aug-2017 21:59:46 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 15
+[19-Aug-2017 21:59:46 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 16
+[19-Aug-2017 21:59:46 America/New_York] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 16
+[19-Aug-2017 21:59:46 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 17
+[19-Aug-2017 21:59:46 America/New_York] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 17
+[19-Aug-2017 21:59:46 America/New_York] PHP Notice:  Undefined index: otp_num in /home/hemantku/public_html/oye/oye/send_otp.php on line 40
+[19-Aug-2017 22:00:22 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/send_otp.php on line 8
+[19-Aug-2017 22:00:22 America/New_York] PHP Notice:  Undefined index: email in /home/hemantku/public_html/oye/oye/send_otp.php on line 9
+[19-Aug-2017 22:00:22 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 14
+[19-Aug-2017 22:00:22 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 14
+[19-Aug-2017 22:00:22 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 15
+[19-Aug-2017 22:00:22 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 15
+[19-Aug-2017 22:00:22 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 16
+[19-Aug-2017 22:00:22 America/New_York] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 16
+[19-Aug-2017 22:00:22 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 17
+[19-Aug-2017 22:00:22 America/New_York] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 17
+[19-Aug-2017 22:00:22 America/New_York] PHP Notice:  Undefined index: personal_name in /home/hemantku/public_html/oye/oye/send_otp.php on line 46
+[19-Aug-2017 22:00:22 America/New_York] PHP Notice:  Undefined index: loc_owner_name in /home/hemantku/public_html/oye/oye/send_otp.php on line 47
+[19-Aug-2017 22:00:22 America/New_York] PHP Notice:  Undefined index: address in /home/hemantku/public_html/oye/oye/send_otp.php on line 48
+[19-Aug-2017 22:00:22 America/New_York] PHP Notice:  Undefined index: country in /home/hemantku/public_html/oye/oye/send_otp.php on line 49
+[19-Aug-2017 22:00:22 America/New_York] PHP Notice:  Undefined index: state in /home/hemantku/public_html/oye/oye/send_otp.php on line 50
+[19-Aug-2017 22:00:22 America/New_York] PHP Notice:  Undefined index: city in /home/hemantku/public_html/oye/oye/send_otp.php on line 51
+[19-Aug-2017 22:00:22 America/New_York] PHP Notice:  Undefined index: pincode in /home/hemantku/public_html/oye/oye/send_otp.php on line 52
+[19-Aug-2017 22:00:22 America/New_York] PHP Notice:  Undefined index: email in /home/hemantku/public_html/oye/oye/send_otp.php on line 53
+[19-Aug-2017 22:00:22 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/send_otp.php on line 54
+[19-Aug-2017 22:00:22 America/New_York] PHP Notice:  Undefined index: password in /home/hemantku/public_html/oye/oye/send_otp.php on line 55
+[19-Aug-2017 22:00:22 America/New_York] PHP Notice:  Undefined index: ownership_type in /home/hemantku/public_html/oye/oye/send_otp.php on line 56
+[20-Aug-2017 00:41:34 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 14
+[20-Aug-2017 00:41:34 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 14
+[20-Aug-2017 00:41:34 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 15
+[20-Aug-2017 00:41:34 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 15
+[20-Aug-2017 00:41:34 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 16
+[20-Aug-2017 00:41:34 America/New_York] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 16
+[20-Aug-2017 00:41:34 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 17
+[20-Aug-2017 00:41:34 America/New_York] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 17
+[20-Aug-2017 00:41:34 America/New_York] PHP Notice:  Undefined index: otp_num in /home/hemantku/public_html/oye/oye/send_otp.php on line 40
+[20-Aug-2017 00:41:56 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/send_otp.php on line 8
+[20-Aug-2017 00:41:56 America/New_York] PHP Notice:  Undefined index: email in /home/hemantku/public_html/oye/oye/send_otp.php on line 9
+[20-Aug-2017 00:41:56 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 14
+[20-Aug-2017 00:41:56 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 14
+[20-Aug-2017 00:41:56 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 15
+[20-Aug-2017 00:41:56 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 15
+[20-Aug-2017 00:41:56 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 16
+[20-Aug-2017 00:41:56 America/New_York] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 16
+[20-Aug-2017 00:41:56 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 17
+[20-Aug-2017 00:41:56 America/New_York] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 17
+[20-Aug-2017 00:41:56 America/New_York] PHP Notice:  Undefined index: personal_name in /home/hemantku/public_html/oye/oye/send_otp.php on line 46
+[20-Aug-2017 00:41:56 America/New_York] PHP Notice:  Undefined index: loc_owner_name in /home/hemantku/public_html/oye/oye/send_otp.php on line 47
+[20-Aug-2017 00:41:56 America/New_York] PHP Notice:  Undefined index: address in /home/hemantku/public_html/oye/oye/send_otp.php on line 48
+[20-Aug-2017 00:41:56 America/New_York] PHP Notice:  Undefined index: country in /home/hemantku/public_html/oye/oye/send_otp.php on line 49
+[20-Aug-2017 00:41:56 America/New_York] PHP Notice:  Undefined index: state in /home/hemantku/public_html/oye/oye/send_otp.php on line 50
+[20-Aug-2017 00:41:56 America/New_York] PHP Notice:  Undefined index: city in /home/hemantku/public_html/oye/oye/send_otp.php on line 51
+[20-Aug-2017 00:41:56 America/New_York] PHP Notice:  Undefined index: pincode in /home/hemantku/public_html/oye/oye/send_otp.php on line 52
+[20-Aug-2017 00:41:56 America/New_York] PHP Notice:  Undefined index: email in /home/hemantku/public_html/oye/oye/send_otp.php on line 53
+[20-Aug-2017 00:41:56 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/send_otp.php on line 54
+[20-Aug-2017 00:41:56 America/New_York] PHP Notice:  Undefined index: password in /home/hemantku/public_html/oye/oye/send_otp.php on line 55
+[20-Aug-2017 00:41:56 America/New_York] PHP Notice:  Undefined index: ownership_type in /home/hemantku/public_html/oye/oye/send_otp.php on line 56
+[20-Aug-2017 00:47:08 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 26
+[20-Aug-2017 00:47:08 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 26
+[20-Aug-2017 00:47:08 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 27
+[20-Aug-2017 00:47:08 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 27
+[20-Aug-2017 00:47:08 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 00:47:08 America/New_York] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 00:47:08 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 00:47:08 America/New_York] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 00:47:08 America/New_York] PHP Notice:  Undefined index: otp_num in /home/hemantku/public_html/oye/oye/send_otp.php on line 52
+[20-Aug-2017 00:47:37 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/send_otp.php on line 8
+[20-Aug-2017 00:47:37 America/New_York] PHP Notice:  Undefined index: email in /home/hemantku/public_html/oye/oye/send_otp.php on line 9
+[20-Aug-2017 00:47:37 America/New_York] PHP Notice:  Undefined index: personal_name in /home/hemantku/public_html/oye/oye/send_otp.php on line 13
+[20-Aug-2017 00:47:37 America/New_York] PHP Notice:  Undefined index: loc_owner_name in /home/hemantku/public_html/oye/oye/send_otp.php on line 14
+[20-Aug-2017 00:47:37 America/New_York] PHP Notice:  Undefined index: address in /home/hemantku/public_html/oye/oye/send_otp.php on line 15
+[20-Aug-2017 00:47:37 America/New_York] PHP Notice:  Undefined index: country in /home/hemantku/public_html/oye/oye/send_otp.php on line 16
+[20-Aug-2017 00:47:37 America/New_York] PHP Notice:  Undefined index: state in /home/hemantku/public_html/oye/oye/send_otp.php on line 17
+[20-Aug-2017 00:47:37 America/New_York] PHP Notice:  Undefined index: city in /home/hemantku/public_html/oye/oye/send_otp.php on line 18
+[20-Aug-2017 00:47:37 America/New_York] PHP Notice:  Undefined index: pincode in /home/hemantku/public_html/oye/oye/send_otp.php on line 19
+[20-Aug-2017 00:47:37 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/send_otp.php on line 20
+[20-Aug-2017 00:47:37 America/New_York] PHP Notice:  Undefined index: password in /home/hemantku/public_html/oye/oye/send_otp.php on line 21
+[20-Aug-2017 00:47:37 America/New_York] PHP Notice:  Undefined index: ownership_type in /home/hemantku/public_html/oye/oye/send_otp.php on line 22
+[20-Aug-2017 00:47:37 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 26
+[20-Aug-2017 00:47:37 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 26
+[20-Aug-2017 00:47:37 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 27
+[20-Aug-2017 00:47:37 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 27
+[20-Aug-2017 00:47:37 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 00:47:37 America/New_York] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 00:47:37 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 00:47:37 America/New_York] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 01:04:06 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 26
+[20-Aug-2017 01:04:06 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 26
+[20-Aug-2017 01:04:06 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 27
+[20-Aug-2017 01:04:06 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 27
+[20-Aug-2017 01:04:06 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 01:04:06 America/New_York] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 01:04:06 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 01:04:06 America/New_York] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 01:04:06 America/New_York] PHP Notice:  Undefined index: otp_num in /home/hemantku/public_html/oye/oye/send_otp.php on line 67
+[20-Aug-2017 01:05:42 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/send_otp.php on line 8
+[20-Aug-2017 01:05:42 America/New_York] PHP Notice:  Undefined index: email in /home/hemantku/public_html/oye/oye/send_otp.php on line 9
+[20-Aug-2017 01:05:42 America/New_York] PHP Notice:  Undefined index: personal_name in /home/hemantku/public_html/oye/oye/send_otp.php on line 13
+[20-Aug-2017 01:05:42 America/New_York] PHP Notice:  Undefined index: loc_owner_name in /home/hemantku/public_html/oye/oye/send_otp.php on line 14
+[20-Aug-2017 01:05:42 America/New_York] PHP Notice:  Undefined index: address in /home/hemantku/public_html/oye/oye/send_otp.php on line 15
+[20-Aug-2017 01:05:42 America/New_York] PHP Notice:  Undefined index: country in /home/hemantku/public_html/oye/oye/send_otp.php on line 16
+[20-Aug-2017 01:05:42 America/New_York] PHP Notice:  Undefined index: state in /home/hemantku/public_html/oye/oye/send_otp.php on line 17
+[20-Aug-2017 01:05:42 America/New_York] PHP Notice:  Undefined index: city in /home/hemantku/public_html/oye/oye/send_otp.php on line 18
+[20-Aug-2017 01:05:42 America/New_York] PHP Notice:  Undefined index: pincode in /home/hemantku/public_html/oye/oye/send_otp.php on line 19
+[20-Aug-2017 01:05:42 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/send_otp.php on line 20
+[20-Aug-2017 01:05:42 America/New_York] PHP Notice:  Undefined index: password in /home/hemantku/public_html/oye/oye/send_otp.php on line 21
+[20-Aug-2017 01:05:42 America/New_York] PHP Notice:  Undefined index: ownership_type in /home/hemantku/public_html/oye/oye/send_otp.php on line 22
+[20-Aug-2017 01:05:42 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 26
+[20-Aug-2017 01:05:42 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 26
+[20-Aug-2017 01:05:42 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 27
+[20-Aug-2017 01:05:42 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 27
+[20-Aug-2017 01:05:42 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 01:05:42 America/New_York] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 01:05:42 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 01:05:42 America/New_York] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 01:14:22 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 26
+[20-Aug-2017 01:14:22 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 26
+[20-Aug-2017 01:14:22 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 27
+[20-Aug-2017 01:14:22 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 27
+[20-Aug-2017 01:14:22 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 01:14:22 America/New_York] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 01:14:22 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 01:14:22 America/New_York] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 01:14:22 America/New_York] PHP Notice:  Undefined index: otp_num in /home/hemantku/public_html/oye/oye/send_otp.php on line 68
+[20-Aug-2017 01:14:42 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/send_otp.php on line 8
+[20-Aug-2017 01:14:42 America/New_York] PHP Notice:  Undefined index: email in /home/hemantku/public_html/oye/oye/send_otp.php on line 9
+[20-Aug-2017 01:14:42 America/New_York] PHP Notice:  Undefined index: personal_name in /home/hemantku/public_html/oye/oye/send_otp.php on line 13
+[20-Aug-2017 01:14:42 America/New_York] PHP Notice:  Undefined index: loc_owner_name in /home/hemantku/public_html/oye/oye/send_otp.php on line 14
+[20-Aug-2017 01:14:42 America/New_York] PHP Notice:  Undefined index: address in /home/hemantku/public_html/oye/oye/send_otp.php on line 15
+[20-Aug-2017 01:14:42 America/New_York] PHP Notice:  Undefined index: country in /home/hemantku/public_html/oye/oye/send_otp.php on line 16
+[20-Aug-2017 01:14:42 America/New_York] PHP Notice:  Undefined index: state in /home/hemantku/public_html/oye/oye/send_otp.php on line 17
+[20-Aug-2017 01:14:42 America/New_York] PHP Notice:  Undefined index: city in /home/hemantku/public_html/oye/oye/send_otp.php on line 18
+[20-Aug-2017 01:14:42 America/New_York] PHP Notice:  Undefined index: pincode in /home/hemantku/public_html/oye/oye/send_otp.php on line 19
+[20-Aug-2017 01:14:42 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/send_otp.php on line 20
+[20-Aug-2017 01:14:42 America/New_York] PHP Notice:  Undefined index: password in /home/hemantku/public_html/oye/oye/send_otp.php on line 21
+[20-Aug-2017 01:14:42 America/New_York] PHP Notice:  Undefined index: ownership_type in /home/hemantku/public_html/oye/oye/send_otp.php on line 22
+[20-Aug-2017 01:14:42 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 26
+[20-Aug-2017 01:14:42 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 26
+[20-Aug-2017 01:14:42 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 27
+[20-Aug-2017 01:14:42 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 27
+[20-Aug-2017 01:14:42 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 01:14:42 America/New_York] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 01:14:42 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 01:14:42 America/New_York] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 01:23:22 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 26
+[20-Aug-2017 01:23:22 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 26
+[20-Aug-2017 01:23:22 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 27
+[20-Aug-2017 01:23:22 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 27
+[20-Aug-2017 01:23:22 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 01:23:22 America/New_York] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 01:23:22 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 01:23:22 America/New_York] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 01:23:22 America/New_York] PHP Notice:  Undefined index: otp_num in /home/hemantku/public_html/oye/oye/send_otp.php on line 68
+[20-Aug-2017 01:23:22 America/New_York] PHP Notice:  Undefined index: email_new in /home/hemantku/public_html/oye/oye/send_otp.php on line 69
+[20-Aug-2017 01:23:22 America/New_York] PHP Notice:  Undefined index: password2_new in /home/hemantku/public_html/oye/oye/send_otp.php on line 70
+[20-Aug-2017 01:24:52 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/send_otp.php on line 8
+[20-Aug-2017 01:24:52 America/New_York] PHP Notice:  Undefined index: email in /home/hemantku/public_html/oye/oye/send_otp.php on line 9
+[20-Aug-2017 01:24:52 America/New_York] PHP Notice:  Undefined index: personal_name in /home/hemantku/public_html/oye/oye/send_otp.php on line 13
+[20-Aug-2017 01:24:52 America/New_York] PHP Notice:  Undefined index: loc_owner_name in /home/hemantku/public_html/oye/oye/send_otp.php on line 14
+[20-Aug-2017 01:24:52 America/New_York] PHP Notice:  Undefined index: address in /home/hemantku/public_html/oye/oye/send_otp.php on line 15
+[20-Aug-2017 01:24:52 America/New_York] PHP Notice:  Undefined index: country in /home/hemantku/public_html/oye/oye/send_otp.php on line 16
+[20-Aug-2017 01:24:52 America/New_York] PHP Notice:  Undefined index: state in /home/hemantku/public_html/oye/oye/send_otp.php on line 17
+[20-Aug-2017 01:24:52 America/New_York] PHP Notice:  Undefined index: city in /home/hemantku/public_html/oye/oye/send_otp.php on line 18
+[20-Aug-2017 01:24:52 America/New_York] PHP Notice:  Undefined index: pincode in /home/hemantku/public_html/oye/oye/send_otp.php on line 19
+[20-Aug-2017 01:24:52 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/send_otp.php on line 20
+[20-Aug-2017 01:24:52 America/New_York] PHP Notice:  Undefined index: password in /home/hemantku/public_html/oye/oye/send_otp.php on line 21
+[20-Aug-2017 01:24:52 America/New_York] PHP Notice:  Undefined index: ownership_type in /home/hemantku/public_html/oye/oye/send_otp.php on line 22
+[20-Aug-2017 01:24:52 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 26
+[20-Aug-2017 01:24:52 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 26
+[20-Aug-2017 01:24:52 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 27
+[20-Aug-2017 01:24:52 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 27
+[20-Aug-2017 01:24:52 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 01:24:52 America/New_York] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 01:24:52 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 01:24:52 America/New_York] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 01:24:52 America/New_York] PHP Notice:  Undefined index: email_new in /home/hemantku/public_html/oye/oye/send_otp.php on line 69
+[20-Aug-2017 01:24:52 America/New_York] PHP Notice:  Undefined index: password2_new in /home/hemantku/public_html/oye/oye/send_otp.php on line 70
+[20-Aug-2017 01:57:22 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 43
+[20-Aug-2017 01:57:22 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 43
+[20-Aug-2017 01:57:22 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 44
+[20-Aug-2017 01:57:22 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 44
+[20-Aug-2017 01:57:22 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 45
+[20-Aug-2017 01:57:22 America/New_York] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 45
+[20-Aug-2017 01:57:22 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 46
+[20-Aug-2017 01:57:22 America/New_York] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 46
+[20-Aug-2017 01:57:37 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/send_otp.php on line 25
+[20-Aug-2017 01:57:37 America/New_York] PHP Notice:  Undefined index: email in /home/hemantku/public_html/oye/oye/send_otp.php on line 26
+[20-Aug-2017 01:57:37 America/New_York] PHP Notice:  Undefined index: personal_name in /home/hemantku/public_html/oye/oye/send_otp.php on line 30
+[20-Aug-2017 01:57:37 America/New_York] PHP Notice:  Undefined index: loc_owner_name in /home/hemantku/public_html/oye/oye/send_otp.php on line 31
+[20-Aug-2017 01:57:37 America/New_York] PHP Notice:  Undefined index: address in /home/hemantku/public_html/oye/oye/send_otp.php on line 32
+[20-Aug-2017 01:57:37 America/New_York] PHP Notice:  Undefined index: country in /home/hemantku/public_html/oye/oye/send_otp.php on line 33
+[20-Aug-2017 01:57:37 America/New_York] PHP Notice:  Undefined index: state in /home/hemantku/public_html/oye/oye/send_otp.php on line 34
+[20-Aug-2017 01:57:37 America/New_York] PHP Notice:  Undefined index: city in /home/hemantku/public_html/oye/oye/send_otp.php on line 35
+[20-Aug-2017 01:57:37 America/New_York] PHP Notice:  Undefined index: pincode in /home/hemantku/public_html/oye/oye/send_otp.php on line 36
+[20-Aug-2017 01:57:37 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/send_otp.php on line 37
+[20-Aug-2017 01:57:37 America/New_York] PHP Notice:  Undefined index: password in /home/hemantku/public_html/oye/oye/send_otp.php on line 38
+[20-Aug-2017 01:57:37 America/New_York] PHP Notice:  Undefined index: ownership_type in /home/hemantku/public_html/oye/oye/send_otp.php on line 39
+[20-Aug-2017 01:57:37 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 43
+[20-Aug-2017 01:57:37 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 43
+[20-Aug-2017 01:57:37 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 44
+[20-Aug-2017 01:57:37 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 44
+[20-Aug-2017 01:57:37 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 45
+[20-Aug-2017 01:57:37 America/New_York] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 45
+[20-Aug-2017 01:57:37 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 46
+[20-Aug-2017 01:57:37 America/New_York] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 46
+[20-Aug-2017 01:57:37 America/New_York] PHP Notice:  Undefined index: email_new in /home/hemantku/public_html/oye/oye/test.php on line 7
+[20-Aug-2017 01:57:37 America/New_York] PHP Notice:  Undefined index: password2_new in /home/hemantku/public_html/oye/oye/test.php on line 8
+[20-Aug-2017 01:57:37 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hemantku/public_html/oye/oye/send_otp.php:25) in /home/hemantku/public_html/oye/oye/test.php on line 40
+[20-Aug-2017 02:02:53 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 26
+[20-Aug-2017 02:02:53 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 26
+[20-Aug-2017 02:02:53 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 27
+[20-Aug-2017 02:02:53 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 27
+[20-Aug-2017 02:02:53 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 02:02:53 America/New_York] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 02:02:53 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 02:02:53 America/New_York] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 02:03:59 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/send_otp.php on line 8
+[20-Aug-2017 02:03:59 America/New_York] PHP Notice:  Undefined index: email in /home/hemantku/public_html/oye/oye/send_otp.php on line 9
+[20-Aug-2017 02:03:59 America/New_York] PHP Notice:  Undefined index: personal_name in /home/hemantku/public_html/oye/oye/send_otp.php on line 13
+[20-Aug-2017 02:03:59 America/New_York] PHP Notice:  Undefined index: loc_owner_name in /home/hemantku/public_html/oye/oye/send_otp.php on line 14
+[20-Aug-2017 02:03:59 America/New_York] PHP Notice:  Undefined index: address in /home/hemantku/public_html/oye/oye/send_otp.php on line 15
+[20-Aug-2017 02:03:59 America/New_York] PHP Notice:  Undefined index: country in /home/hemantku/public_html/oye/oye/send_otp.php on line 16
+[20-Aug-2017 02:03:59 America/New_York] PHP Notice:  Undefined index: state in /home/hemantku/public_html/oye/oye/send_otp.php on line 17
+[20-Aug-2017 02:03:59 America/New_York] PHP Notice:  Undefined index: city in /home/hemantku/public_html/oye/oye/send_otp.php on line 18
+[20-Aug-2017 02:03:59 America/New_York] PHP Notice:  Undefined index: pincode in /home/hemantku/public_html/oye/oye/send_otp.php on line 19
+[20-Aug-2017 02:03:59 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/send_otp.php on line 20
+[20-Aug-2017 02:03:59 America/New_York] PHP Notice:  Undefined index: password in /home/hemantku/public_html/oye/oye/send_otp.php on line 21
+[20-Aug-2017 02:03:59 America/New_York] PHP Notice:  Undefined index: ownership_type in /home/hemantku/public_html/oye/oye/send_otp.php on line 22
+[20-Aug-2017 02:03:59 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 26
+[20-Aug-2017 02:03:59 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 26
+[20-Aug-2017 02:03:59 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 27
+[20-Aug-2017 02:03:59 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 27
+[20-Aug-2017 02:03:59 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 02:03:59 America/New_York] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 02:03:59 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 02:03:59 America/New_York] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 02:03:59 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hemantku/public_html/oye/oye/send_otp.php:8) in /home/hemantku/public_html/oye/oye/test.php on line 38
+[20-Aug-2017 02:14:29 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 26
+[20-Aug-2017 02:14:29 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 26
+[20-Aug-2017 02:14:29 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 27
+[20-Aug-2017 02:14:29 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 27
+[20-Aug-2017 02:14:29 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 02:14:29 America/New_York] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 02:14:29 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 02:14:29 America/New_York] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 02:14:41 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/send_otp.php on line 8
+[20-Aug-2017 02:14:41 America/New_York] PHP Notice:  Undefined index: email in /home/hemantku/public_html/oye/oye/send_otp.php on line 9
+[20-Aug-2017 02:14:41 America/New_York] PHP Notice:  Undefined index: personal_name in /home/hemantku/public_html/oye/oye/send_otp.php on line 13
+[20-Aug-2017 02:14:41 America/New_York] PHP Notice:  Undefined index: loc_owner_name in /home/hemantku/public_html/oye/oye/send_otp.php on line 14
+[20-Aug-2017 02:14:41 America/New_York] PHP Notice:  Undefined index: address in /home/hemantku/public_html/oye/oye/send_otp.php on line 15
+[20-Aug-2017 02:14:41 America/New_York] PHP Notice:  Undefined index: country in /home/hemantku/public_html/oye/oye/send_otp.php on line 16
+[20-Aug-2017 02:14:41 America/New_York] PHP Notice:  Undefined index: state in /home/hemantku/public_html/oye/oye/send_otp.php on line 17
+[20-Aug-2017 02:14:41 America/New_York] PHP Notice:  Undefined index: city in /home/hemantku/public_html/oye/oye/send_otp.php on line 18
+[20-Aug-2017 02:14:41 America/New_York] PHP Notice:  Undefined index: pincode in /home/hemantku/public_html/oye/oye/send_otp.php on line 19
+[20-Aug-2017 02:14:41 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/send_otp.php on line 20
+[20-Aug-2017 02:14:41 America/New_York] PHP Notice:  Undefined index: password in /home/hemantku/public_html/oye/oye/send_otp.php on line 21
+[20-Aug-2017 02:14:41 America/New_York] PHP Notice:  Undefined index: ownership_type in /home/hemantku/public_html/oye/oye/send_otp.php on line 22
+[20-Aug-2017 02:14:41 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 26
+[20-Aug-2017 02:14:41 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 26
+[20-Aug-2017 02:14:41 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 27
+[20-Aug-2017 02:14:41 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 27
+[20-Aug-2017 02:14:41 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 02:14:41 America/New_York] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 02:14:41 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 02:14:41 America/New_York] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 02:14:41 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hemantku/public_html/oye/oye/send_otp.php:8) in /home/hemantku/public_html/oye/oye/test.php on line 38
+[20-Aug-2017 02:17:08 America/New_York] PHP Notice:  Undefined index: state in /home/hemantku/public_html/oye/oye/send_otp.php on line 17
+[20-Aug-2017 02:17:08 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 26
+[20-Aug-2017 02:17:08 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 26
+[20-Aug-2017 02:17:08 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 27
+[20-Aug-2017 02:17:08 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 27
+[20-Aug-2017 02:17:08 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 02:17:08 America/New_York] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 02:17:08 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 02:17:08 America/New_York] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 02:17:19 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/send_otp.php on line 8
+[20-Aug-2017 02:17:19 America/New_York] PHP Notice:  Undefined index: email in /home/hemantku/public_html/oye/oye/send_otp.php on line 9
+[20-Aug-2017 02:17:19 America/New_York] PHP Notice:  Undefined index: personal_name in /home/hemantku/public_html/oye/oye/send_otp.php on line 13
+[20-Aug-2017 02:17:19 America/New_York] PHP Notice:  Undefined index: loc_owner_name in /home/hemantku/public_html/oye/oye/send_otp.php on line 14
+[20-Aug-2017 02:17:19 America/New_York] PHP Notice:  Undefined index: address in /home/hemantku/public_html/oye/oye/send_otp.php on line 15
+[20-Aug-2017 02:17:19 America/New_York] PHP Notice:  Undefined index: country in /home/hemantku/public_html/oye/oye/send_otp.php on line 16
+[20-Aug-2017 02:17:19 America/New_York] PHP Notice:  Undefined index: state in /home/hemantku/public_html/oye/oye/send_otp.php on line 17
+[20-Aug-2017 02:17:19 America/New_York] PHP Notice:  Undefined index: city in /home/hemantku/public_html/oye/oye/send_otp.php on line 18
+[20-Aug-2017 02:17:19 America/New_York] PHP Notice:  Undefined index: pincode in /home/hemantku/public_html/oye/oye/send_otp.php on line 19
+[20-Aug-2017 02:17:19 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/send_otp.php on line 20
+[20-Aug-2017 02:17:19 America/New_York] PHP Notice:  Undefined index: password in /home/hemantku/public_html/oye/oye/send_otp.php on line 21
+[20-Aug-2017 02:17:19 America/New_York] PHP Notice:  Undefined index: ownership_type in /home/hemantku/public_html/oye/oye/send_otp.php on line 22
+[20-Aug-2017 02:17:19 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 26
+[20-Aug-2017 02:17:19 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 26
+[20-Aug-2017 02:17:19 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 27
+[20-Aug-2017 02:17:19 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 27
+[20-Aug-2017 02:17:19 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 02:17:19 America/New_York] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 02:17:19 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 02:17:19 America/New_York] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 02:23:17 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 26
+[20-Aug-2017 02:23:17 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 26
+[20-Aug-2017 02:23:17 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 27
+[20-Aug-2017 02:23:17 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 27
+[20-Aug-2017 02:23:17 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 02:23:17 America/New_York] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 02:23:17 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 02:23:17 America/New_York] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 02:23:39 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/send_otp.php on line 8
+[20-Aug-2017 02:23:39 America/New_York] PHP Notice:  Undefined index: email in /home/hemantku/public_html/oye/oye/send_otp.php on line 9
+[20-Aug-2017 02:23:39 America/New_York] PHP Notice:  Undefined index: personal_name in /home/hemantku/public_html/oye/oye/send_otp.php on line 13
+[20-Aug-2017 02:23:39 America/New_York] PHP Notice:  Undefined index: loc_owner_name in /home/hemantku/public_html/oye/oye/send_otp.php on line 14
+[20-Aug-2017 02:23:39 America/New_York] PHP Notice:  Undefined index: address in /home/hemantku/public_html/oye/oye/send_otp.php on line 15
+[20-Aug-2017 02:23:39 America/New_York] PHP Notice:  Undefined index: country in /home/hemantku/public_html/oye/oye/send_otp.php on line 16
+[20-Aug-2017 02:23:39 America/New_York] PHP Notice:  Undefined index: state in /home/hemantku/public_html/oye/oye/send_otp.php on line 17
+[20-Aug-2017 02:23:39 America/New_York] PHP Notice:  Undefined index: city in /home/hemantku/public_html/oye/oye/send_otp.php on line 18
+[20-Aug-2017 02:23:39 America/New_York] PHP Notice:  Undefined index: pincode in /home/hemantku/public_html/oye/oye/send_otp.php on line 19
+[20-Aug-2017 02:23:39 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/send_otp.php on line 20
+[20-Aug-2017 02:23:39 America/New_York] PHP Notice:  Undefined index: password in /home/hemantku/public_html/oye/oye/send_otp.php on line 21
+[20-Aug-2017 02:23:39 America/New_York] PHP Notice:  Undefined index: ownership_type in /home/hemantku/public_html/oye/oye/send_otp.php on line 22
+[20-Aug-2017 02:23:39 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 26
+[20-Aug-2017 02:23:39 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 26
+[20-Aug-2017 02:23:39 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 27
+[20-Aug-2017 02:23:39 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 27
+[20-Aug-2017 02:23:39 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 02:23:39 America/New_York] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 02:23:39 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 02:23:39 America/New_York] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 02:33:52 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 26
+[20-Aug-2017 02:33:52 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 26
+[20-Aug-2017 02:33:52 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 27
+[20-Aug-2017 02:33:52 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 27
+[20-Aug-2017 02:33:52 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 02:33:52 America/New_York] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 02:33:52 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 02:33:52 America/New_York] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 02:34:36 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/send_otp.php on line 8
+[20-Aug-2017 02:34:36 America/New_York] PHP Notice:  Undefined index: email in /home/hemantku/public_html/oye/oye/send_otp.php on line 9
+[20-Aug-2017 02:34:36 America/New_York] PHP Notice:  Undefined index: personal_name in /home/hemantku/public_html/oye/oye/send_otp.php on line 13
+[20-Aug-2017 02:34:36 America/New_York] PHP Notice:  Undefined index: loc_owner_name in /home/hemantku/public_html/oye/oye/send_otp.php on line 14
+[20-Aug-2017 02:34:36 America/New_York] PHP Notice:  Undefined index: address in /home/hemantku/public_html/oye/oye/send_otp.php on line 15
+[20-Aug-2017 02:34:36 America/New_York] PHP Notice:  Undefined index: country in /home/hemantku/public_html/oye/oye/send_otp.php on line 16
+[20-Aug-2017 02:34:36 America/New_York] PHP Notice:  Undefined index: state in /home/hemantku/public_html/oye/oye/send_otp.php on line 17
+[20-Aug-2017 02:34:36 America/New_York] PHP Notice:  Undefined index: city in /home/hemantku/public_html/oye/oye/send_otp.php on line 18
+[20-Aug-2017 02:34:36 America/New_York] PHP Notice:  Undefined index: pincode in /home/hemantku/public_html/oye/oye/send_otp.php on line 19
+[20-Aug-2017 02:34:36 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/send_otp.php on line 20
+[20-Aug-2017 02:34:36 America/New_York] PHP Notice:  Undefined index: ownership_type in /home/hemantku/public_html/oye/oye/send_otp.php on line 22
+[20-Aug-2017 02:34:36 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 26
+[20-Aug-2017 02:34:36 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 26
+[20-Aug-2017 02:34:36 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 27
+[20-Aug-2017 02:34:36 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 27
+[20-Aug-2017 02:34:36 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 02:34:36 America/New_York] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 02:34:36 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 02:34:36 America/New_York] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 02:57:02 America/New_York] PHP Notice:  Undefined index: document in /home/hemantku/public_html/oye/oye/send_otp.php on line 23
+[20-Aug-2017 02:57:02 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/hemantku/public_html/oye/oye/send_otp.php on line 24
+[20-Aug-2017 02:57:02 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 02:57:02 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 02:57:02 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 02:57:02 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 02:57:02 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 30
+[20-Aug-2017 02:57:02 America/New_York] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 30
+[20-Aug-2017 02:57:02 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 31
+[20-Aug-2017 02:57:02 America/New_York] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 31
+[20-Aug-2017 02:58:26 America/New_York] PHP Notice:  Undefined index: document in /home/hemantku/public_html/oye/oye/send_otp.php on line 23
+[20-Aug-2017 02:58:26 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/hemantku/public_html/oye/oye/send_otp.php on line 24
+[20-Aug-2017 02:58:26 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 02:58:26 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 02:58:26 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 02:58:26 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 02:58:26 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 30
+[20-Aug-2017 02:58:26 America/New_York] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 30
+[20-Aug-2017 02:58:26 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 31
+[20-Aug-2017 02:58:26 America/New_York] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 31
+[20-Aug-2017 02:59:41 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/send_otp.php on line 8
+[20-Aug-2017 02:59:41 America/New_York] PHP Notice:  Undefined index: email in /home/hemantku/public_html/oye/oye/send_otp.php on line 9
+[20-Aug-2017 02:59:41 America/New_York] PHP Notice:  Undefined index: personal_name in /home/hemantku/public_html/oye/oye/send_otp.php on line 13
+[20-Aug-2017 02:59:41 America/New_York] PHP Notice:  Undefined index: loc_owner_name in /home/hemantku/public_html/oye/oye/send_otp.php on line 14
+[20-Aug-2017 02:59:41 America/New_York] PHP Notice:  Undefined index: address in /home/hemantku/public_html/oye/oye/send_otp.php on line 15
+[20-Aug-2017 02:59:41 America/New_York] PHP Notice:  Undefined index: country in /home/hemantku/public_html/oye/oye/send_otp.php on line 16
+[20-Aug-2017 02:59:41 America/New_York] PHP Notice:  Undefined index: state in /home/hemantku/public_html/oye/oye/send_otp.php on line 17
+[20-Aug-2017 02:59:41 America/New_York] PHP Notice:  Undefined index: city in /home/hemantku/public_html/oye/oye/send_otp.php on line 18
+[20-Aug-2017 02:59:41 America/New_York] PHP Notice:  Undefined index: pincode in /home/hemantku/public_html/oye/oye/send_otp.php on line 19
+[20-Aug-2017 02:59:41 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/send_otp.php on line 20
+[20-Aug-2017 02:59:41 America/New_York] PHP Notice:  Undefined index: ownership_type in /home/hemantku/public_html/oye/oye/send_otp.php on line 22
+[20-Aug-2017 02:59:41 America/New_York] PHP Notice:  Undefined index: document in /home/hemantku/public_html/oye/oye/send_otp.php on line 23
+[20-Aug-2017 02:59:41 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/hemantku/public_html/oye/oye/send_otp.php on line 24
+[20-Aug-2017 02:59:41 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 02:59:41 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 02:59:41 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 02:59:41 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 02:59:41 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 30
+[20-Aug-2017 02:59:41 America/New_York] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 30
+[20-Aug-2017 02:59:41 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 31
+[20-Aug-2017 02:59:41 America/New_York] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 31
+[20-Aug-2017 03:08:31 America/New_York] PHP Notice:  Undefined index: document in /home/hemantku/public_html/oye/oye/send_otp.php on line 23
+[20-Aug-2017 03:08:31 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/hemantku/public_html/oye/oye/send_otp.php on line 24
+[20-Aug-2017 03:08:31 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 03:08:31 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 03:08:31 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 03:08:31 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 03:08:31 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 30
+[20-Aug-2017 03:08:31 America/New_York] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 30
+[20-Aug-2017 03:08:31 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 31
+[20-Aug-2017 03:08:31 America/New_York] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 31
+[20-Aug-2017 03:09:09 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/send_otp.php on line 8
+[20-Aug-2017 03:09:09 America/New_York] PHP Notice:  Undefined index: email in /home/hemantku/public_html/oye/oye/send_otp.php on line 9
+[20-Aug-2017 03:09:09 America/New_York] PHP Notice:  Undefined index: personal_name in /home/hemantku/public_html/oye/oye/send_otp.php on line 13
+[20-Aug-2017 03:09:09 America/New_York] PHP Notice:  Undefined index: loc_owner_name in /home/hemantku/public_html/oye/oye/send_otp.php on line 14
+[20-Aug-2017 03:09:09 America/New_York] PHP Notice:  Undefined index: address in /home/hemantku/public_html/oye/oye/send_otp.php on line 15
+[20-Aug-2017 03:09:09 America/New_York] PHP Notice:  Undefined index: country in /home/hemantku/public_html/oye/oye/send_otp.php on line 16
+[20-Aug-2017 03:09:09 America/New_York] PHP Notice:  Undefined index: state in /home/hemantku/public_html/oye/oye/send_otp.php on line 17
+[20-Aug-2017 03:09:09 America/New_York] PHP Notice:  Undefined index: city in /home/hemantku/public_html/oye/oye/send_otp.php on line 18
+[20-Aug-2017 03:09:09 America/New_York] PHP Notice:  Undefined index: pincode in /home/hemantku/public_html/oye/oye/send_otp.php on line 19
+[20-Aug-2017 03:09:09 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/send_otp.php on line 20
+[20-Aug-2017 03:09:09 America/New_York] PHP Notice:  Undefined index: ownership_type in /home/hemantku/public_html/oye/oye/send_otp.php on line 22
+[20-Aug-2017 03:09:09 America/New_York] PHP Notice:  Undefined index: document in /home/hemantku/public_html/oye/oye/send_otp.php on line 23
+[20-Aug-2017 03:09:09 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/hemantku/public_html/oye/oye/send_otp.php on line 24
+[20-Aug-2017 03:09:09 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 03:09:09 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 03:09:09 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 03:09:09 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 03:09:09 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 30
+[20-Aug-2017 03:09:09 America/New_York] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 30
+[20-Aug-2017 03:09:09 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 31
+[20-Aug-2017 03:09:09 America/New_York] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 31
+[20-Aug-2017 03:29:43 America/New_York] PHP Notice:  Undefined index: document in /home/hemantku/public_html/oye/oye/send_otp.php on line 23
+[20-Aug-2017 03:29:43 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/hemantku/public_html/oye/oye/send_otp.php on line 24
+[20-Aug-2017 03:29:43 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 03:29:43 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 03:29:43 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 03:29:43 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 03:29:43 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 30
+[20-Aug-2017 03:29:43 America/New_York] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 30
+[20-Aug-2017 03:29:43 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 31
+[20-Aug-2017 03:29:43 America/New_York] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 31
+[20-Aug-2017 03:30:35 America/New_York] PHP Notice:  Undefined index: document in /home/hemantku/public_html/oye/oye/send_otp.php on line 23
+[20-Aug-2017 03:30:35 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/hemantku/public_html/oye/oye/send_otp.php on line 24
+[20-Aug-2017 03:30:35 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 03:30:35 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 03:30:35 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 03:30:35 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 03:30:35 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 30
+[20-Aug-2017 03:30:35 America/New_York] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 30
+[20-Aug-2017 03:30:35 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 31
+[20-Aug-2017 03:30:35 America/New_York] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 31
+[20-Aug-2017 03:31:08 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/send_otp.php on line 8
+[20-Aug-2017 03:31:08 America/New_York] PHP Notice:  Undefined index: email in /home/hemantku/public_html/oye/oye/send_otp.php on line 9
+[20-Aug-2017 03:31:08 America/New_York] PHP Notice:  Undefined index: personal_name in /home/hemantku/public_html/oye/oye/send_otp.php on line 13
+[20-Aug-2017 03:31:08 America/New_York] PHP Notice:  Undefined index: loc_owner_name in /home/hemantku/public_html/oye/oye/send_otp.php on line 14
+[20-Aug-2017 03:31:08 America/New_York] PHP Notice:  Undefined index: address in /home/hemantku/public_html/oye/oye/send_otp.php on line 15
+[20-Aug-2017 03:31:08 America/New_York] PHP Notice:  Undefined index: country in /home/hemantku/public_html/oye/oye/send_otp.php on line 16
+[20-Aug-2017 03:31:08 America/New_York] PHP Notice:  Undefined index: state in /home/hemantku/public_html/oye/oye/send_otp.php on line 17
+[20-Aug-2017 03:31:08 America/New_York] PHP Notice:  Undefined index: city in /home/hemantku/public_html/oye/oye/send_otp.php on line 18
+[20-Aug-2017 03:31:08 America/New_York] PHP Notice:  Undefined index: pincode in /home/hemantku/public_html/oye/oye/send_otp.php on line 19
+[20-Aug-2017 03:31:08 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/send_otp.php on line 20
+[20-Aug-2017 03:31:08 America/New_York] PHP Notice:  Undefined index: ownership_type in /home/hemantku/public_html/oye/oye/send_otp.php on line 22
+[20-Aug-2017 03:31:08 America/New_York] PHP Notice:  Undefined index: document in /home/hemantku/public_html/oye/oye/send_otp.php on line 23
+[20-Aug-2017 03:31:08 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/hemantku/public_html/oye/oye/send_otp.php on line 24
+[20-Aug-2017 03:31:08 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 03:31:08 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 28
+[20-Aug-2017 03:31:08 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 03:31:08 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 03:31:08 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 30
+[20-Aug-2017 03:31:08 America/New_York] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 30
+[20-Aug-2017 03:31:08 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 31
+[20-Aug-2017 03:31:08 America/New_York] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 31
+[20-Aug-2017 03:33:46 America/New_York] PHP Warning:  include(oye/dbConfig.php): failed to open stream: No such file or directory in /home/hemantku/public_html/oye/oye/create_user.php on line 2
+[20-Aug-2017 03:33:46 America/New_York] PHP Warning:  include(oye/dbConfig.php): failed to open stream: No such file or directory in /home/hemantku/public_html/oye/oye/create_user.php on line 2
+[20-Aug-2017 03:33:46 America/New_York] PHP Warning:  include(): Failed opening 'oye/dbConfig.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/hemantku/public_html/oye/oye/create_user.php on line 2
+[20-Aug-2017 03:33:46 America/New_York] PHP Notice:  Undefined variable: db in /home/hemantku/public_html/oye/oye/create_user.php on line 4
+[20-Aug-2017 03:33:46 America/New_York] PHP Fatal error:  Call to a member function query() on a non-object in /home/hemantku/public_html/oye/oye/create_user.php on line 4
+[20-Aug-2017 04:55:02 America/New_York] PHP Notice:  Undefined index: state in /home/hemantku/public_html/oye/oye/send_otp.php on line 17
+[20-Aug-2017 04:55:02 America/New_York] PHP Notice:  Undefined index: document in /home/hemantku/public_html/oye/oye/send_otp.php on line 24
+[20-Aug-2017 04:55:02 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/hemantku/public_html/oye/oye/send_otp.php on line 25
+[20-Aug-2017 04:55:02 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 04:55:02 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 04:55:02 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 30
+[20-Aug-2017 04:55:02 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 30
+[20-Aug-2017 04:55:02 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 31
+[20-Aug-2017 04:55:02 America/New_York] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 31
+[20-Aug-2017 04:55:02 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 32
+[20-Aug-2017 04:55:02 America/New_York] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 32
+[20-Aug-2017 04:56:04 America/New_York] PHP Notice:  Undefined index: document in /home/hemantku/public_html/oye/oye/send_otp.php on line 24
+[20-Aug-2017 04:56:04 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/hemantku/public_html/oye/oye/send_otp.php on line 25
+[20-Aug-2017 04:56:04 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 04:56:04 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 04:56:04 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 30
+[20-Aug-2017 04:56:04 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 30
+[20-Aug-2017 04:56:04 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 31
+[20-Aug-2017 04:56:04 America/New_York] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 31
+[20-Aug-2017 04:56:04 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 32
+[20-Aug-2017 04:56:04 America/New_York] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 32
+[20-Aug-2017 04:57:54 America/New_York] PHP Notice:  Undefined index: document in /home/hemantku/public_html/oye/oye/send_otp.php on line 24
+[20-Aug-2017 04:57:54 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/hemantku/public_html/oye/oye/send_otp.php on line 25
+[20-Aug-2017 04:57:54 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 04:57:54 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 29
+[20-Aug-2017 04:57:54 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 30
+[20-Aug-2017 04:57:54 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 30
+[20-Aug-2017 04:57:54 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 31
+[20-Aug-2017 04:57:54 America/New_York] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 31
+[20-Aug-2017 04:57:54 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 32
+[20-Aug-2017 04:57:54 America/New_York] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 32
+[20-Aug-2017 05:14:31 America/New_York] PHP Notice:  Undefined index: state in /home/hemantku/public_html/oye/oye/send_otp.php on line 17
+[20-Aug-2017 05:14:31 America/New_York] PHP Notice:  Undefined index: document in /home/hemantku/public_html/oye/oye/send_otp.php on line 23
+[20-Aug-2017 05:14:31 America/New_York] PHP Warning:  getimagesize(): Filename cannot be empty in /home/hemantku/public_html/oye/oye/send_otp.php on line 23
+[20-Aug-2017 05:14:31 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 35
+[20-Aug-2017 05:14:31 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 35
+[20-Aug-2017 05:14:31 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 36
+[20-Aug-2017 05:14:31 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 36
+[20-Aug-2017 05:14:31 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 37
+[20-Aug-2017 05:14:31 America/New_York] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 37
+[20-Aug-2017 05:14:31 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 38
+[20-Aug-2017 05:14:31 America/New_York] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 38
+[20-Aug-2017 05:14:31 America/New_York] PHP Notice:  Undefined variable: imgData in /home/hemantku/public_html/oye/oye/send_otp.php on line 60
+[20-Aug-2017 05:14:31 America/New_York] PHP Notice:  Undefined variable: imgName in /home/hemantku/public_html/oye/oye/send_otp.php on line 60
+[20-Aug-2017 05:18:22 America/New_York] PHP Notice:  Undefined index: state in /home/hemantku/public_html/oye/oye/send_otp.php on line 17
+[20-Aug-2017 05:18:22 America/New_York] PHP Notice:  Undefined index: image in /home/hemantku/public_html/oye/oye/send_otp.php on line 23
+[20-Aug-2017 05:18:22 America/New_York] PHP Warning:  getimagesize(): Filename cannot be empty in /home/hemantku/public_html/oye/oye/send_otp.php on line 23
+[20-Aug-2017 05:18:22 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 35
+[20-Aug-2017 05:18:22 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 35
+[20-Aug-2017 05:18:22 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 36
+[20-Aug-2017 05:18:22 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 36
+[20-Aug-2017 05:18:22 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 37
+[20-Aug-2017 05:18:22 America/New_York] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 37
+[20-Aug-2017 05:18:22 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 38
+[20-Aug-2017 05:18:22 America/New_York] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 38
+[20-Aug-2017 05:18:22 America/New_York] PHP Notice:  Undefined variable: imgData in /home/hemantku/public_html/oye/oye/send_otp.php on line 60
+[20-Aug-2017 05:18:22 America/New_York] PHP Notice:  Undefined variable: imgName in /home/hemantku/public_html/oye/oye/send_otp.php on line 60
+[20-Aug-2017 05:21:49 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 35
+[20-Aug-2017 05:21:49 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 35
+[20-Aug-2017 05:21:49 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 36
+[20-Aug-2017 05:21:49 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 36
+[20-Aug-2017 05:21:49 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 37
+[20-Aug-2017 05:21:49 America/New_York] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 37
+[20-Aug-2017 05:21:49 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 38
+[20-Aug-2017 05:21:49 America/New_York] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 38
+[20-Aug-2017 05:23:28 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/send_otp.php on line 8
+[20-Aug-2017 05:23:28 America/New_York] PHP Notice:  Undefined index: email in /home/hemantku/public_html/oye/oye/send_otp.php on line 9
+[20-Aug-2017 05:23:28 America/New_York] PHP Notice:  Undefined index: personal_name in /home/hemantku/public_html/oye/oye/send_otp.php on line 13
+[20-Aug-2017 05:23:28 America/New_York] PHP Notice:  Undefined index: loc_owner_name in /home/hemantku/public_html/oye/oye/send_otp.php on line 14
+[20-Aug-2017 05:23:28 America/New_York] PHP Notice:  Undefined index: address in /home/hemantku/public_html/oye/oye/send_otp.php on line 15
+[20-Aug-2017 05:23:28 America/New_York] PHP Notice:  Undefined index: country in /home/hemantku/public_html/oye/oye/send_otp.php on line 16
+[20-Aug-2017 05:23:28 America/New_York] PHP Notice:  Undefined index: state in /home/hemantku/public_html/oye/oye/send_otp.php on line 17
+[20-Aug-2017 05:23:28 America/New_York] PHP Notice:  Undefined index: city in /home/hemantku/public_html/oye/oye/send_otp.php on line 18
+[20-Aug-2017 05:23:28 America/New_York] PHP Notice:  Undefined index: pincode in /home/hemantku/public_html/oye/oye/send_otp.php on line 19
+[20-Aug-2017 05:23:28 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/send_otp.php on line 20
+[20-Aug-2017 05:23:28 America/New_York] PHP Notice:  Undefined index: ownership_type in /home/hemantku/public_html/oye/oye/send_otp.php on line 22
+[20-Aug-2017 05:23:28 America/New_York] PHP Notice:  Undefined index: image in /home/hemantku/public_html/oye/oye/send_otp.php on line 23
+[20-Aug-2017 05:23:28 America/New_York] PHP Warning:  getimagesize(): Filename cannot be empty in /home/hemantku/public_html/oye/oye/send_otp.php on line 23
+[20-Aug-2017 05:23:28 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 35
+[20-Aug-2017 05:23:28 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 35
+[20-Aug-2017 05:23:28 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 36
+[20-Aug-2017 05:23:28 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 36
+[20-Aug-2017 05:23:28 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 37
+[20-Aug-2017 05:23:28 America/New_York] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 37
+[20-Aug-2017 05:23:28 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 38
+[20-Aug-2017 05:23:28 America/New_York] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 38
+[20-Aug-2017 05:23:28 America/New_York] PHP Notice:  Undefined variable: imgData in /home/hemantku/public_html/oye/oye/send_otp.php on line 67
+[20-Aug-2017 05:23:28 America/New_York] PHP Notice:  Undefined variable: imgName in /home/hemantku/public_html/oye/oye/send_otp.php on line 67
+[20-Aug-2017 05:24:57 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 35
+[20-Aug-2017 05:24:57 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 35
+[20-Aug-2017 05:24:57 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 36
+[20-Aug-2017 05:24:57 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 36
+[20-Aug-2017 05:24:57 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 37
+[20-Aug-2017 05:24:57 America/New_York] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 37
+[20-Aug-2017 05:24:57 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 38
+[20-Aug-2017 05:24:57 America/New_York] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 38
+[20-Aug-2017 05:28:22 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/send_otp.php on line 8
+[20-Aug-2017 05:28:22 America/New_York] PHP Notice:  Undefined index: email in /home/hemantku/public_html/oye/oye/send_otp.php on line 9
+[20-Aug-2017 05:28:22 America/New_York] PHP Notice:  Undefined index: personal_name in /home/hemantku/public_html/oye/oye/send_otp.php on line 13
+[20-Aug-2017 05:28:22 America/New_York] PHP Notice:  Undefined index: loc_owner_name in /home/hemantku/public_html/oye/oye/send_otp.php on line 14
+[20-Aug-2017 05:28:22 America/New_York] PHP Notice:  Undefined index: address in /home/hemantku/public_html/oye/oye/send_otp.php on line 15
+[20-Aug-2017 05:28:22 America/New_York] PHP Notice:  Undefined index: country in /home/hemantku/public_html/oye/oye/send_otp.php on line 16
+[20-Aug-2017 05:28:22 America/New_York] PHP Notice:  Undefined index: state in /home/hemantku/public_html/oye/oye/send_otp.php on line 17
+[20-Aug-2017 05:28:22 America/New_York] PHP Notice:  Undefined index: city in /home/hemantku/public_html/oye/oye/send_otp.php on line 18
+[20-Aug-2017 05:28:22 America/New_York] PHP Notice:  Undefined index: pincode in /home/hemantku/public_html/oye/oye/send_otp.php on line 19
+[20-Aug-2017 05:28:22 America/New_York] PHP Notice:  Undefined index: number in /home/hemantku/public_html/oye/oye/send_otp.php on line 20
+[20-Aug-2017 05:28:22 America/New_York] PHP Notice:  Undefined index: ownership_type in /home/hemantku/public_html/oye/oye/send_otp.php on line 22
+[20-Aug-2017 05:28:22 America/New_York] PHP Notice:  Undefined index: image in /home/hemantku/public_html/oye/oye/send_otp.php on line 23
+[20-Aug-2017 05:28:22 America/New_York] PHP Warning:  getimagesize(): Filename cannot be empty in /home/hemantku/public_html/oye/oye/send_otp.php on line 23
+[20-Aug-2017 05:28:22 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 35
+[20-Aug-2017 05:28:22 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 35
+[20-Aug-2017 05:28:22 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 36
+[20-Aug-2017 05:28:22 America/New_York] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 36
+[20-Aug-2017 05:28:22 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 37
+[20-Aug-2017 05:28:22 America/New_York] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 37
+[20-Aug-2017 05:28:22 America/New_York] PHP Notice:  Undefined variable: curl in /home/hemantku/public_html/oye/oye/send_otp.php on line 38
+[20-Aug-2017 05:28:22 America/New_York] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/hemantku/public_html/oye/oye/send_otp.php on line 38
+[20-Aug-2017 05:28:22 America/New_York] PHP Notice:  Undefined variable: imgData in /home/hemantku/public_html/oye/oye/send_otp.php on line 67
+[20-Aug-2017 05:28:22 America/New_York] PHP Notice:  Undefined variable: imgName in /home/hemantku/public_html/oye/oye/send_otp.php on line 67
+[20-Aug-2017 10:18:27 America/New_York] PHP Warning:  include(admin_view.php): failed to open stream: No such file or directory in /home/hemantku/public_html/oye/oye/create_user.php on line 3
+[20-Aug-2017 10:18:27 America/New_York] PHP Warning:  include(admin_view.php): failed to open stream: No such file or directory in /home/hemantku/public_html/oye/oye/create_user.php on line 3
+[20-Aug-2017 10:18:27 America/New_York] PHP Warning:  include(): Failed opening 'admin_view.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/hemantku/public_html/oye/oye/create_user.php on line 3
+[20-Aug-2017 10:19:14 America/New_York] PHP Notice:  Undefined index: view in /home/hemantku/public_html/oye/admin_view.php on line 196
+[20-Aug-2017 10:19:31 America/New_York] PHP Notice:  Undefined index: view in /home/hemantku/public_html/oye/admin_view.php on line 196
+[20-Aug-2017 10:19:37 America/New_York] PHP Notice:  Undefined index: view in /home/hemantku/public_html/oye/admin_view.php on line 196
+[25-Aug-2017 06:39:06 America/New_York] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/hemantku/public_html/oye/oye/test.php on line 9
